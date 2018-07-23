@@ -1,0 +1,11 @@
+{
+  "name": "piglatin",
+  "version": "0.0.1",
+  "description": "this is a pig latin translator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isaiah Harris",
+  "license": "ISC"
+}
